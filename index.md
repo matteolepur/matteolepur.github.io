@@ -22,4 +22,4 @@ I am a Ph.D. student at the University of British Columbia in the Department of 
 
 ## Blog
 
-- **Test Page**
+- [Test Blog](blog.md)
