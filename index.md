@@ -19,3 +19,7 @@ I am a Ph.D. student at the University of British Columbia in the Department of 
   Journal of Statistical Software.
   <br>
   [[PDF](https://arxiv.org/pdf/1912.10396.pdf)] [[Code](https://github.com/UBC-Stat-ML/blangSDK)]
+
+## Blog
+
+- **Test Page**
